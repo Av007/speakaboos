@@ -1,0 +1,27 @@
+{
+  "name": "av007-speakaboos",
+  "version": "0.1.0",
+  "source": "UNKNOWN",
+  "author": "av007",
+  "license": "Apache License, Version 2.0",
+  "summary": "UNKNOWN",
+  "description": "UNKNOWN",
+  "project_page": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "Modulefile": "92e57fc47b25cb6202b451773e04b735",
+    "README": "3964b03a05c6dfe134164d42a693a358",
+    "README.md": "eaf1e9546b553949128dbbd12e087d4c",
+    "manifests/init.pp": "488a32907d87bd589044ff182103d15a",
+    "manifests/install.pp": "3a839aedc9a8681c15952d72d3894e87",
+    "manifests/params.pp": "de6c96160e55e97f549fbcb67ad9ca0f",
+    "manifests/service.pp": "68c69256f9a6e9515964eab90b48ef98",
+    "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+    "tests/init.pp": "2b6760e88d144275db25781b0a7a50d2"
+  }
+}
