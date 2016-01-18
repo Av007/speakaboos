@@ -1,0 +1,2 @@
+# speakaboos
+puppet module
